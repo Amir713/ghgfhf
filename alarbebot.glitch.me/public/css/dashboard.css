@@ -1,0 +1,61 @@
+  @import url('https://fonts.googleapis.com/css?family=Lalezar&amp;display=swap');
+
+.roleBox {
+  border-radius: 3px;
+  padding: 0px 3px;
+  font-size: 0.8em;
+  white-space: nowrap;
+}
+
+.status {
+  box-sizing: border-box;
+  border-width: 2px;
+  border-radius: 50%;
+  height: 15px;
+  width: 15px;
+  float: left;
+  vertical-align: middle;
+  margin: 5px;
+}
+
+.online {
+  background-color: #42b581;
+  border-color: #69c49a;
+}
+
+.idle {
+  background-color: #faa61a;
+  border-color: #fbb848;
+}
+
+.dnd {
+  background-color: #f04747;
+  border-color: #f36c6c;
+}
+
+.offline {
+  background-color: #747f8d;
+  border-color: #9099a4;
+}
+
+.exaples-for-wlc  {      
+
+    font-size: 23px;
+   font-family: 'Lalezar', cursive;
+      margin: 45px/*top*/ /*right*/30px  0px/*t7t*/ /*left*/0px; 
+}
+
+.exapless-for-wlc {
+  font-size: 23px;
+ font-family: 'Lalezar', cursive;
+      margin: 25px/*top*/ /*right*/30px  0px/*t7t*/ /*left*/0px; 
+  
+}
+
+.exaplesss-for-wlc {
+
+  font-size: 23px;
+ font-family: 'Lalezar', cursive;
+      margin: 20px/*top*/ /*right*/30px  0px/*t7t*/ /*left*/0px; 
+  
+}
